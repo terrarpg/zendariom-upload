@@ -24,4 +24,4 @@ publish:
   provider: generic
   url: https://zendariom-upload.onrender.com/download/
   channel: latest
-electronVersion: 30.5.1
+electronVersion: 27.0.4
