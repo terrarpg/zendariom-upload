@@ -1,8 +1,8 @@
-version: 2.1.5
+version: 3.0.0
 files:
-  - url: Zendariom Launcher-2.1.5-win-x64.exe
-    sha512: ui+DpQ8p35n2rcpG80LDueo4KbM3KOen0i7r1F7XTBZbeWfAWOidnF58WvVVa2xEh+9rT73Em6DrjJvoDC2XEw==
-    size: 105315568
-path: Zendariom Launcher-2.1.5-win-x64.exe
-sha512: ui+DpQ8p35n2rcpG80LDueo4KbM3KOen0i7r1F7XTBZbeWfAWOidnF58WvVVa2xEh+9rT73Em6DrjJvoDC2XEw==
-releaseDate: '2026-01-08T05:13:36.012Z'
+  - url: Zendariom Launcher-3.0.0-win-x64.exe
+    sha512: jc8gc9iFongiLaQEU0U40eTPPFe4k7INug/fbBRDV486Fj0LjpX/gDPAvaBEnCw6ikD8m+gM18rgEVXtnO+QAA==
+    size: 107724125
+path: Zendariom Launcher-3.0.0-win-x64.exe
+sha512: jc8gc9iFongiLaQEU0U40eTPPFe4k7INug/fbBRDV486Fj0LjpX/gDPAvaBEnCw6ikD8m+gM18rgEVXtnO+QAA==
+releaseDate: '2026-01-17T21:14:23.823Z'
